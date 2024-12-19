@@ -1552,4 +1552,5 @@ Changes include:
    - Support for encoders with the Legacy Module is now working.
  * The hardware loop has been updated for better performance.
 #   7 0 8 2  
+ #   7 0 8 2  
  
